@@ -124,7 +124,7 @@
 		"url": "https://github.com/electron-react-boilerplate/electron-react-boilerplate/issues"
 	},
 	"keywords": [
-		"electron",
+	"electron",
 		"boilerplate",
 		"react",
 		"redux",
